@@ -1,3 +1,10 @@
 Contesta la pregunta y realiza un commit a la rama correspondiente a la pregunta (examenA o examenB).
 
 PREGUNTA B - Explica los cuatro "lugares" donde pueden encontrarse los archivos que forman parte de un repositorio GIT. Nombra el comando para mover un archivo de un espacio a otro con la siguiente sintaxys: [LugarInicial - LugarFinal => comando]
+
+-Los archivos de un repositorio en GIT pueden encontrarse en diferentes espacios:
+    -Repositorio local: lugar donde se encuentran todos los archivos inicialmente y que podemos localizar en la carpeta en la que este se inició.
+    -Área de espera: lugar donde el archivo está a la espera de ser actualizado tras modificarlo
+    -Repositorio remoto: repositorio en la nube donde se pueden guardar los archivos de nuestro repositorio local
+
+    Comando para mover un archivo desde el directorio al area de espera:[directorio - area de espera => git add]
