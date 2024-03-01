@@ -1,3 +1,5 @@
 Contesta la pregunta y realiza un commit a la rama correspondiente a la pregunta (examenA o examenB).
 
-PREGUNTA A - Explica con tus propias palabras qué es y cómo funciona git. Para ello define y explica la función de los elementos que lo forman: (commit, branch, tree, blob). 
+PREGUNTA A - Explica con tus propias palabras qué es y cómo funciona git. Para ello define y explica la función de los elementos que lo forman: (commit, branch, tree, blob).
+
+GIT es un entorno dedicado al control de versiones que permite al usuario manipular proyectos y rastrear los cambios que se realizan en él de forma precisa y eficiente. En GIT el usuario puede crear un repositorio donde guardar sus trabajos. Dichos trabajos, pasan por fases en las que el usuario realiza cambios, por tanto para poder controlar las versiones de los trabajos y las modificaciones git ofrece una serie de herramientas por comando como los commit(para guardar una nueva version con los cambios realizados), las ramas o branches(para llevar el desarrollo del proyecto por otro camino), tree(esquema que contiene las ramas y commits de cada version del proyecto), blob(contiene la informacion de cada commit,su codigo,tree...)
